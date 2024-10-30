@@ -1,0 +1,28 @@
+D:\SpbPU\WinForms\Lab1\LabLibrary1\bin\Debug\net8.0-windows\LabLibrary1.deps.json
+D:\SpbPU\WinForms\Lab1\LabLibrary1\bin\Debug\net8.0-windows\LabLibrary1.dll
+D:\SpbPU\WinForms\Lab1\LabLibrary1\bin\Debug\net8.0-windows\LabLibrary1.pdb
+D:\SpbPU\WinForms\Lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.InputControl.resources
+D:\SpbPU\WinForms\Lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.SelectControl.resources
+D:\SpbPU\WinForms\Lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.csproj.GenerateResource.cache
+D:\SpbPU\WinForms\Lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpbPU\WinForms\Lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.AssemblyInfoInputs.cache
+D:\SpbPU\WinForms\Lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.AssemblyInfo.cs
+D:\SpbPU\WinForms\Lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.csproj.CoreCompileInputs.cache
+D:\SpbPU\WinForms\Lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.dll
+D:\SpbPU\WinForms\Lab1\LabLibrary1\obj\Debug\net8.0-windows\refint\LabLibrary1.dll
+D:\SpbPU\WinForms\Lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.pdb
+D:\SpbPU\WinForms\Lab1\LabLibrary1\obj\Debug\net8.0-windows\ref\LabLibrary1.dll
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\bin\Debug\net8.0-windows\LabLibrary1.deps.json
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\bin\Debug\net8.0-windows\LabLibrary1.dll
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\bin\Debug\net8.0-windows\LabLibrary1.pdb
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.InputControl.resources
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.SelectControl.resources
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.csproj.GenerateResource.cache
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.AssemblyInfoInputs.cache
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.AssemblyInfo.cs
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.csproj.CoreCompileInputs.cache
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.dll
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\obj\Debug\net8.0-windows\refint\LabLibrary1.dll
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\obj\Debug\net8.0-windows\LabLibrary1.pdb
+E:\ЦОО\КОП 2024\cop-lab1\LabLibrary1\obj\Debug\net8.0-windows\ref\LabLibrary1.dll
